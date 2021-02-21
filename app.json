@@ -1,0 +1,17 @@
+{
+  "name": "PRUEBAS",
+  "displayName": "PRUEBAS",
+  "expo": {
+    "name": "PRUEBAS",
+    "slug": "PRUEBAS",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "*assets*/*"
+    ],
+    "android" : {
+      "package": "com.laura_tepox",
+      "versionCode": 1
+    }
+
+  }
+}
